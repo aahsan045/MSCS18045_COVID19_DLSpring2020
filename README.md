@@ -2,3 +2,10 @@
 This repository contains the Fine-tuned VGG16 &amp; Resnet-18 Models for COVID-detection through chest X-Ray images. 
 
 Note:This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.
+
+
+| Model         | Data         | Result  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
