@@ -1,13 +1,13 @@
 # MSCS18045_COVID19_DLSpring2020
 This repository contains the Fine-tuned VGG16 &amp; Resnet-18 Models for COVID-detection through chest X-Ray images. 
 
-VGG16:
-	Number of Epochs=10
-	Learning Rate=0.001
-	Momentum=0.9
-	Optimizer =SGD
-	Number of Neurons in second Last layer= 550
-	Batch-Size=128
+##VGG16
+Markup : * Number of Epochs=10
+Markup : *	Learning Rate=0.001
+Markup : *	Momentum=0.9
+Markup : *	Optimizer =SGD
+Markup : *	Number of Neurons in second Last layer= 550
+Markup : *	Batch-Size=128
 
 
 
@@ -28,7 +28,7 @@ VGG16:
 |                             |    Test          |    93.06       |    97.17        |    91.58     |    94.29         |
 
 
-Resnet18:
+##Resnet18
 	Number of Epochs=10
 	Learning Rate=0.001
 	Momentum=0.9
@@ -51,6 +51,10 @@ Resnet18:
 |                             |    Training      |    86.01       |    87.55        |    88.5      |    88.09         |
 |                             |    Validation    |    85.13       |    84.85        |    89.40     |    87.07         |
 |                             |    Test          |    91.3        |    91.6         |    93.21     |    92.42         |
+
+
+
+
 
 
 
