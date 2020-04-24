@@ -38,5 +38,21 @@ Resnet18:
 
 
 
+|        Model   Resnet18    |    Data          |    Tp      |    Tn      |    Fp     |    Fn     |
+|----------------------------|------------------|------------|------------|-----------|-----------|
+|                            |    Training      |    6200    |    4122    |    881    |    797    |
+|                            |    Validation    |    751     |    526     |    134    |    89     |
+|                            |    Test          |    811     |    556     |    74     |    59     |
+
+
+
+|            Model   Renet18    |    Data          |    Accuracy    |    Precision    |    Recall    |    F1-Measure    |
+|-----------------------------|------------------|----------------|-----------------|--------------|------------------|
+|                             |    Training      |    86.01       |    87.55        |    88.5      |    88.09         |
+|                             |    Validation    |    85.13       |    84.85        |    89.40     |    87.07         |
+|                             |    Test          |    91.3        |    91.6         |    93.21     |    92.42         |
+
+
+
 Note:This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.
 
