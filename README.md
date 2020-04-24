@@ -1,5 +1,10 @@
 # MSCS18045_COVID19_DLSpring2020
-This repository contains the Fine-tuned VGG16 &amp; Resnet-18 Models for COVID-detection through chest X-Ray images. 
+This repository contains the Fine-tuned VGG16 &amp; Resnet-18 Models for COVID-detection through chest X-Ray images.
+# Pre-Requisites:
+- Python 3.7+
+- Pytorch
+- Numpy
+- Gpu (Optional)
 
 # Task 1: Training Only FC layers
 ## VGG16
