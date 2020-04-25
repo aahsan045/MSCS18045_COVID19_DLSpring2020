@@ -7,6 +7,9 @@ This repository contains the Fine-tuned VGG16 &amp; Resnet-18 Models for COVID-d
 - Google Colab(Optinal)
 - Gpu (Optional)
 
+You can find the dataset here:
+[Data](https://drive.google.com/open?id=1-HQQciKYfwAO3oH7ci6zhg45DduvkpnK)
+
 # Dataset Details:
 | Class    | # of images in training set | # of images in validation set | # of images in test set |
 |----------|-----------------------------|-------------------------------|-------------------------|
