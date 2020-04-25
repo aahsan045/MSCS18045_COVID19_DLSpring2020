@@ -41,12 +41,6 @@ You can find the dataset here:
 
 
 ## Resnet18
-- Number of Epochs=10
-- Learning Rate=0.001
-- Momentum=0.9
-- Optimizer =SGD
-- Number of Neurons in second Last layer= 550
-- Batch-Size=128
 
 ### Confusion Matrix:
 
@@ -66,7 +60,9 @@ You can find the dataset here:
 |                             |    Test          |    91.3        |    91.6         |    93.21     |    92.42         |
 
 
-
+You can find the weight files from here.
+[VGG16_FC_Only](https://drive.google.com/file/d/1PGdYmu--rvxSy7-w0HzrFWfl1gUFiJx0/view?usp=sharing)
+[Res18_FC_Only](https://drive.google.com/file/d/19hcFy5OKkhnXU2Dtvp5JSs3b0qyuprUm/view?usp=sharing)
 # Task 2: Training Different Convolutional/FC layers
 
 For this task, Three different tasks have been performed by unfreezing the different layers. These tasks can be categorized as following: 
@@ -115,7 +111,9 @@ I am only showing the results here for training on All Network.
 |                                |    Validation    |    90.8        |    90.9         |    93..27    |    92.105        |
 |                                |    Test          |    96.66       |    97.74        |    96.64     |    97.19         |
 
-
+You can find the weight files from here.
+[VGG16_Entire](https://drive.google.com/file/d/138GO6g3TAb4gV-WcyPvNPCojY7dkA7wf/view?usp=sharing)
+[Res18_Entire](https://drive.google.com/file/d/1-51nCgQgKWPuR74fOWR5h6oFMghLQfQF/view?usp=sharing)
 
 Note:This repository contains code and results for COVID-19 classification assignment by Deep Learning Spring 2020 course offered at Information Technology University, Lahore, Pakistan. This assignment is only for learning purposes and is not intended to be used for clinical purposes.
 
